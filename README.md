@@ -95,3 +95,21 @@ while True:
         print("Upss ada yang salah, silahkan cek kembali.")
 
 ```
+
+**gambar**
+![gambar](gambar/tambah.png)
+
+![gambar](gambar/cari.png)
+
+![gambar](gambar/ubah.png)
+
+![gambar](gambar/hapus.png)
+
+![gambar](gambar/lihat.png)
+
+Flowerchat
+
+![gambar](gambar/flowercht.png)
+
+
+
