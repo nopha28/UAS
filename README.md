@@ -102,16 +102,28 @@ Tambah Data
 
 ![gambar](gambar/tambah.png)
 
+
 Cari Data
+
+
 ![gambar](gambar/cari.png)
 
+
 Ubah Data
+
+
 ![gambar](gambar/ubah.png)
 
+
 Hapus Data
+
+
 ![gambar](gambar/hapus.png)
 
+
 Liat Data
+
+
 ![gambar](gambar/lihat.png)
 
 Flowerchat
